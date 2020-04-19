@@ -1,0 +1,6 @@
+Jeg er	I am
+Du er	You are
+Han er	He is
+Vi er	We are
+Dere er	You are
+De er	They are

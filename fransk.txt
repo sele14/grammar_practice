@@ -1,0 +1,6 @@
+Jeg er    Je suis
+Du er     Tu es
+Han er    Il est
+Vi er     Nous sommes
+Dere er   Vous etes
+De er     Ils sont
